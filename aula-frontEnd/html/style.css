@@ -10,17 +10,18 @@ body {
     justify-content: space-between;
 }
 
-.container {
-    width: 1200px;
-    margin: 0 auto;
+.news {
+ 
+    padding: 1em;
+  }
+
+  menu {
+    list-style-type: none;
     display: flex;
-    flex-direction: column;
-}
-
-.container img {
-    align-self: center;
-}
-
-.elemeto {
-    padding-left: 80px;
-}
+    padding: 0;
+    margin-bottom: 0;
+    gap: 1em;
+    display: flex;
+    align-items: center;
+  }
+  
