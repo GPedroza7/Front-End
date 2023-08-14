@@ -32,3 +32,10 @@ justify-content: space-between;
 
   }
   
+.Voltar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
